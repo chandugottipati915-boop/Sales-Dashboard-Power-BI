@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project showcases an interactive **Sales Dashboard** built using **Microsoft Power BI**.  
 The dashboard provides insights into sales performance, customer distribution, and product trends by analyzing data from two datasets: **Customers** and **Orders**.
-
 ---
 
 ## 🗂️ Datasets Used
